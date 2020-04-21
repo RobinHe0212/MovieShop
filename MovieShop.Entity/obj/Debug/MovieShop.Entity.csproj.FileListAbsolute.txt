@@ -1,0 +1,12 @@
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Entity\bin\Debug\MovieShop.Entity.dll
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Entity\bin\Debug\MovieShop.Entity.pdb
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Entity\obj\Debug\MovieShop.Entity.csprojAssemblyReference.cache
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Entity\obj\Debug\MovieShop.Entity.csproj.CoreCompileInputs.cache
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Entity\obj\Debug\MovieShop.Entity.dll
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Entity\obj\Debug\MovieShop.Entity.pdb
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Entity\bin\Debug\MovieShop.Entity.dll.config
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Entity\bin\Debug\EntityFramework.dll
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Entity\bin\Debug\EntityFramework.xml
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Entity\obj\Debug\MovieShop.Entity.csproj.CopyComplete

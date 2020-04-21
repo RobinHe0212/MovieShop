@@ -1,0 +1,15 @@
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\MovieShop.Services.dll
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\MovieShop.Services.pdb
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\MovieShop.Data.dll
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\MovieShop.Entity.dll
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\MovieShop.Data.pdb
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\MovieShop.Entity.pdb
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Services\obj\Debug\MovieShop.Services.csprojAssemblyReference.cache
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Services\obj\Debug\MovieShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Services\obj\Debug\MovieShop.Services.csproj.CopyComplete
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Services\obj\Debug\MovieShop.Services.dll
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Services\obj\Debug\MovieShop.Services.pdb
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\MovieShop.Entity.dll.config
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\EntityFramework.dll
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\MovieShop.Data.dll.config
+C:\Users\RobinHe\source\repos\MovieShop.MVC\MovieShop.Services\bin\Debug\EntityFramework.xml
